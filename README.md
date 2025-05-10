@@ -1,7 +1,7 @@
 # Hi there, I'm Rajkumar Rawal 👋
 
 ## About Me
-- I'm 24 year old from nepal where Gautam Buddha was born.
+- I'm 24 year old from "nepal" where "Gautam Buddha" was born.
 - 🔭 I’m currently working on Tech Parivartan 
 - 🔭 I’m Generative AI Engineer.
 - 🔭 Founder of Tech Parivartan Pvt.Ltd
