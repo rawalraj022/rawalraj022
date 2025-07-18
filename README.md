@@ -3,7 +3,7 @@
 ## About Me
 - 🙏 I'm 24 year old from "nepal🇳🇵" where "Gautam Buddha🪷" was born.
 - 🔭 I’m currently working on Tech Parivartan
-- 🧑‍💻 Founder/CEO of Tech Parivartan Pvt.Ltd  
+- 🧑‍💻 Founder/CEO of Tech Parivartan Pvt.Ltd and AI Parivartan Research Lab.
 - 🧑‍💻 I’m Generative AI Engineer.   
 - 🧑‍🏫 I am computer science student.   
 - 🌱 "Life long learner ..."         [Everything started from "0" , in hope to reach "1" someday] 
