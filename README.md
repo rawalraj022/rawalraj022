@@ -9,7 +9,7 @@
 
 - I love looking inside the hoods of software, opening them to understand the underlying design and principles which was used to build software to solve a particular problem. I believe the only way to develop in this modern world is to build the base of the software rock solid so that it can endure lots of changes.
 
-- 🧑‍🤝‍🧑👫 Interested in Generative AI, blockchain, Robotic related Projects |
+- 🧑‍🤝‍🧑👫 Interested in Generative AI, blockchain, Robotics |
   
 - 🧑‍🤝‍🧑👫 Interested in hackathons or meetups to connect with people and learn from them and vise versa | Always open towards opportunities to grow my skills | 
 
